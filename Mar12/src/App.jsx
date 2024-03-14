@@ -11,23 +11,13 @@ function App() {
   return (
     <>
       <div>
-        {/* <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a> */}
+       
       </div>
       <h1>Selector</h1>
       <div className="card">
         <Selector />
-
-        {/* <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button> */}
-        <p>
-      imported components from MUI
-        </p>
+        <h1> Vite + React + MUI </h1>
+        <p> imported components from MUI</p>
       </div>
       <p className="read-the-docs">
        
